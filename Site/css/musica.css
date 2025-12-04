@@ -24,8 +24,8 @@ header {
 }
 
 .musica img {
-    width: 80%;
-    height: 250px;
+    width: 69%;
+    height: 400px;
     object-fit: cover;
     border-radius: 10px;
     box-shadow: 0 4px 8px rgb(46, 160, 1);

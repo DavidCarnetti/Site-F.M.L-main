@@ -23,7 +23,7 @@ header {
 }
 
 .filme img {
-    width: 75%;
+    width: 50%;
     height: 350px;
     object-fit: cover;
     border-radius: 10px;
